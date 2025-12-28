@@ -1,11 +1,11 @@
 # Generative-AI-for-Image-Synthesis_Final-Project
 
-# Fine-tuning SDXL with DreamBooth + LoRA（個人化主體／風格客製化）
+# Fine-tuning SDXL with DreamBooth + LoRA
 
 本專案以 **Stable Diffusion XL (SDXL Base 1.0)** 為基礎模型，整合 **DreamBooth**（主體綁定）與 **LoRA**（參數高效微調），在有限運算資源下完成「特定主體」的個人化文生圖微調與推論流程。  
 我們以兩個案例做系統性實驗：真實主體 **Lilly cat** 與風格化角色 **Capoo**，比較不同訓練／推論步數對生成品質與主體一致性的影響，並分析風格化主體可能的 domain gap 問題。
 
-> 期末報告：Generative AI for Image Synthesis – Fine-tuning Stable Diffusion XL with DreamBooth and LoRA
+> Generative AI for Image Synthesis_final report.pdf報告以E3提交的檔案為準
 
 ---
 
